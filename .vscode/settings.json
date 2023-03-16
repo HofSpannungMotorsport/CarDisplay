@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mouse.h": "c",
+        "mousewheel.h": "c",
+        "ui_helpers.h": "c"
+    }
+}
